@@ -8,7 +8,6 @@
 - Python
 - Machine Learning
 - Streamlit
-- MongoDB
 - Git & GitHub
 
 ## 📌 Projects
@@ -16,7 +15,7 @@
 - Driver Drowsiness Detection using Deeplearning
 ## 📫 Connect with me
 - LinkedIn: [https://www.linkedin.com/in/pooja-tadahal-6391392a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-- Email: poojatadahal1@gmail.com## Hi there 👋
+- Email: poojatadahal1@gmail.com
 
 <!--
 **POOJA12345-bit/POOJA12345-BIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

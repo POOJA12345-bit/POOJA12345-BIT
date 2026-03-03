@@ -1,13 +1,13 @@
 # Hi 👋 I'm Pooja Tadahal
 
-🎓 IT Engineering Student  
-💻 Interested in Machine Learning & Full Stack Development  
+🎓 Engineering Student  
+💻 Interested in Machine Learning & Data Science 
 📊 Passionate about solving real-world problems using AI  
 
 ## 🚀 Skills
 - Python
 - Machine Learning
-- Streamlit
+- Data Analysis
 - Git & GitHub
 
 ## 📌 Projects

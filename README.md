@@ -1,10 +1,11 @@
-# Hi 👋 I'm Pooja Tadahal
+ Hi 👋 I'm Pooja Tadahal
 
 🎓 Engineering Student  
 💻 Interested in Machine Learning & Data Science 
+
 📊 Passionate about solving real-world problems using AI  
 
-## 🚀 Skills
+##🚀 Skills
 - Python
 - Machine Learning
 - Data Analysis

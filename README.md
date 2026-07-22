@@ -5,7 +5,7 @@
 
 📊 Passionate about solving real-world problems using AI  
 
-##🚀 Skills
+🚀 Skills
 - Python
 - Machine Learning
 - Data Analysis
@@ -13,7 +13,7 @@
 - powerbi
 
 
-## 📌 Projects
+ 📌 Projects
 - Churn Prediction ML Model
 - Driver Drowsiness Detection using Deeplearning
 - Hospital Management Dashboard
@@ -21,7 +21,7 @@
 - iris flower clasification
 - 7 python real word projects(AI Chatbot,Email Automation, File Organizer, Secure Password Generator,QR Code Generator,Google Search API Client ,Web Scraper,YouTube Video Downloader)
   
-## 📫 Connect with me
+📫 Connect with me
 - LinkedIn: [https://www.linkedin.com/in/pooja-tadahal-6391392a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 - Email: poojatadahal1@gmail.com
 

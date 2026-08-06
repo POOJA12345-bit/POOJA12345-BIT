@@ -93,7 +93,7 @@ This project predicts whether a customer will churn (leave the service) using Ma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=POOJA12345-bit&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=POOJA12345-bit&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POOJA12345-bit&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="35%"/>
 
 <img src="https://streak-stats.demolab.com/?user=POOJA12345-bit&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
